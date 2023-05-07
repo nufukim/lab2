@@ -289,4 +289,4 @@ python pacman.py -p YourAgent -a model="Your" -l ghostPKU
 
 
 ### Acknowledgement
-Designed and implemented by Xiyuan Wang, Fanxu Meng and Muhan Zhang from the [GraphPKU](https://github.com/GraphPKU) Lab. Thanks Hongze Li, Zichen Liu and Jiahuan Zhou for module contributions, testing and code comments. Thanks all professors and TAs of the 2023 Introduction to AI team for the valuable discussions. The project is based on UC Berkeley CS188 course project.
+Designed and implemented by Xiyuan Wang, Fanxu Meng and Muhan Zhang from the [GraphPKU](https://github.com/GraphPKU) Lab. Thanks Hongze Li, Zichen Liu and Jiahuan Zhou for module contributions, testing and code comments. Thanks all professors and TAs of the 2023 Introduction to AI team for the valuable discussions. The project is based on UC Berkeley CS188 course project.# lab2
